@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Greating a new branch is quick and simple.
 add merge
+modified this file -"readme.txt"file.
